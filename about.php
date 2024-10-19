@@ -44,25 +44,25 @@ https://templatemo.com/tm-546-sixteen-clothing
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.html"><h2>Sixteen <em>Clothing</em></h2></a>
+          <a class="navbar-brand" href="index.php"><h2>OMEGACOL <em>DIS</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link" href="index.html">Home
+                <a class="nav-link" href="index.php">Inicio
                   <span class="sr-only">(current)</span>
                 </a>
               </li> 
               <li class="nav-item">
-                <a class="nav-link" href="products.html">Our Products</a>
+                <a class="nav-link" href="products.php">Nuestros Productos</a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="about.html">About Us</a>
+                <a class="nav-link" href="about.php">Sobre Nosotros</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact Us</a>
+                <a class="nav-link" href="contact.php">Contáctanos</a>
               </li>
             </ul>
           </div>
@@ -76,8 +76,8 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="text-content">
-              <h4>about us</h4>
-              <h2>our company</h2>
+              <h4>Sobre Nosotros</h4>
+              <h2>Omegacol</h2>
             </div>
           </div>
         </div>
@@ -90,7 +90,7 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Our Background</h2>
+              <h2>Nuestra trayectoria</h2>
             </div>
           </div>
           <div class="col-md-6">
@@ -100,8 +100,8 @@ https://templatemo.com/tm-546-sixteen-clothing
           </div>
           <div class="col-md-6">
             <div class="left-content">
-              <h4>Who we are &amp; What we do?</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis.</p>
+              <h4>Nuestra Historia</h4>
+              <p>Con más de 10 años de experiencia en el sector, Omegacol se ha consolidado como un referente en la industria de las pinturas. Desde nuestros inicios, nos hemos comprometido a combinar tecnología, innovación y sostenibilidad en cada uno de nuestros productos, garantizando resultados excepcionales y respetuosos con el medio ambiente.</p>
               <ul class="social-icons">
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -120,7 +120,7 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Our Team Members</h2>
+              <h2>Nuestro equipo</h2>
             </div>
           </div>
           <div class="col-md-4">
@@ -309,7 +309,7 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Happy Partners</h2>
+              <h2>Colaboradores</h2>
             </div>
           </div>
           <div class="col-md-12">

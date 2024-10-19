@@ -44,25 +44,25 @@ https://templatemo.com/tm-546-sixteen-clothing
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.html"><h2>Sixteen <em>Clothing</em></h2></a>
+          <a class="navbar-brand" href="index.php"><h2>OMEGACOL <em>DIS</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link" href="index.html">Home
+                <a class="nav-link" href="index.php">Inicio
                   <span class="sr-only">(current)</span>
                 </a>
               </li> 
               <li class="nav-item active">
-                <a class="nav-link" href="products.html">Our Products</a>
+                <a class="nav-link" href="products.php">Nuestros Productos</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About Us</a>
+                <a class="nav-link" href="about.php">Sobre Nosotros</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact Us</a>
+                <a class="nav-link" href="contact.php">Contáctanos</a>
               </li>
             </ul>
           </div>
@@ -91,10 +91,10 @@ https://templatemo.com/tm-546-sixteen-clothing
           <div class="col-md-12">
             <div class="filters">
               <ul>
-                  <li class="active" data-filter="*">All Products</li>
-                  <li data-filter=".des">Featured</li>
-                  <li data-filter=".dev">Flash Deals</li>
-                  <li data-filter=".gra">Last Minute</li>
+                  <li class="active" data-filter="*">Todos los productos</li>
+                  <li data-filter=".des">Destacados</li>
+                  <li data-filter=".dev">Ofertas</li>
+                  <li data-filter=".gra">Ultimos productos</li>
               </ul>
             </div>
           </div>

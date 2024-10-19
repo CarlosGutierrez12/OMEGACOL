@@ -44,25 +44,25 @@ https://templatemo.com/tm-546-sixteen-clothing
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.html"><h2>Sixteen <em>Clothing</em></h2></a>
+          <a class="navbar-brand" href="index.php"><h2>OMEGACOL <em>DIS</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item active">
-                <a class="nav-link" href="index.html">Home
+                <a class="nav-link" href="index.php">Inicio
                   <span class="sr-only">(current)</span>
                 </a>
               </li> 
               <li class="nav-item">
-                <a class="nav-link" href="products.html">Nuestros Productos</a>
+                <a class="nav-link" href="products.php">Nuestros Productos</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About Us</a>
+                <a class="nav-link" href="about.php">Sobre Nosotros</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact Us</a>
+                <a class="nav-link" href="contact.php">Contáctanos</a>
               </li>
             </ul>
           </div>
@@ -101,8 +101,8 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Latest Products</h2>
-              <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
+              <h2>Ultimos Productos</h2>
+              <a href="products.php">Ver todos los productos <i class="fa fa-angle-right"></i></a>
             </div>
           </div>
           <div class="col-md-4">
@@ -222,21 +222,14 @@ https://templatemo.com/tm-546-sixteen-clothing
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>About Sixteen Clothing</h2>
+              <h2>Sobre Omegacol</h2>
             </div>
           </div>
           <div class="col-md-6">
             <div class="left-content">
-              <h4>Looking for the best products?</h4>
-              <p><a rel="nofollow" href="https://templatemo.com/tm-546-sixteen-clothing" target="_parent">This template</a> is free to use for your business websites. However, you have no permission to redistribute the downloadable ZIP file on any template collection website. <a rel="nofollow" href="https://templatemo.com/contact">Contact us</a> for more info.</p>
-              <ul class="featured-list">
-                <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-                <li><a href="#">Consectetur an adipisicing elit</a></li>
-                <li><a href="#">It aquecorporis nulla aspernatur</a></li>
-                <li><a href="#">Corporis, omnis doloremque</a></li>
-                <li><a href="#">Non cum id reprehenderit</a></li>
-              </ul>
-              <a href="about.html" class="filled-button">Read More</a>
+              <h4>¿Quiénes Somos?</h4>
+              <p>En Omegacol, somos una empresa dedicada a ofrecer soluciones innovadoras y de alta calidad en el mundo de las pinturas y recubrimientos. Con una amplia gama de productos que abarcan desde pinturas decorativas hasta revestimientos industriales, nos esforzamos por proporcionar a nuestros clientes las herramientas necesarias para transformar sus espacios y proyectos con colores vibrantes y duraderos.<p/>
+              <a href="about.php" class="filled-button">Más información</a>
             </div>
           </div>
           <div class="col-md-6">
@@ -256,11 +249,11 @@ https://templatemo.com/tm-546-sixteen-clothing
             <div class="inner-content">
               <div class="row">
                 <div class="col-md-8">
-                  <h4>Creative &amp; Unique <em>Sixteen</em> Products</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque corporis amet elite author nulla.</p>
+                  <h4> Colores que inspiran.. <em>Calidad</em> que perdura</h4>
+                  <p>Los mejores productos para los profesionales</p>
                 </div>
                 <div class="col-md-4">
-                  <a href="#" class="filled-button">Purchase Now</a>
+                  <a href="#" class="filled-button">Comprar ahora</a>
                 </div>
               </div>
             </div>
