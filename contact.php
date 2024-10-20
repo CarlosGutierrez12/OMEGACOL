@@ -44,7 +44,7 @@ https://templatemo.com/tm-546-sixteen-clothing
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.php"><h2>OMEGACOL <em>DIS</em></h2></a>
+          <a class="navbar-brand" href="index.php"><h2>pinturas <em>Omegacol</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -101,7 +101,7 @@ https://templatemo.com/tm-546-sixteen-clothing
 	4. Copy only URL and paste it within the src="" field below
 -->
             <div id="map">
-              <iframe src="https://maps.google.com/maps?q=Av.+L%C3%BAcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="330px" frameborder="0" style="border:0" allowfullscreen></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31861.63942040942!2d-76.54103063012202!3d3.4218739793660586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e30a1373a8e5e65%3A0x91490ac25443a8dc!2sOmegacol%20distribuciones!5e0!3m2!1ses-419!2sco!4v1729351417971!5m2!1ses-419!2sco" width="100%" height="330px" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
           </div>
           <div class="col-md-4">
@@ -165,27 +165,27 @@ https://templatemo.com/tm-546-sixteen-clothing
           <div class="col-md-4">
             <ul class="accordion">
               <li>
-                  <a>Accordion Title One</a>
+                  <a>Nuestros Productos</a>
                   <div class="content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisic elit. Sed voluptate nihil eumester consectetur similiqu consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipisic elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti elite.</p>
+                      <p>En Omegacol, ofrecemos una amplia gama de pinturas de alta calidad para interiores, exteriores y revestimientos especializados.<br><br>Desde colores vibrantes hasta acabados duraderos, cada uno de nuestros productos está diseñado para cumplir con los más altos estándares de la industria.</p>
                   </div>
               </li>
               <li>
-                  <a>Second Title Here</a>
+                  <a>Innovación y Sostenibilidad</a>
                   <div class="content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisic elit. Sed voluptate nihil eumester consectetur similiqu consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipisic elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti elite.</p>
+                      <p>Nos enorgullece combinar innovación tecnológica con un enfoque en la sostenibilidad.<br><br>Nuestras pinturas están formuladas para ser amigables con el medio ambiente, reduciendo el impacto ecológico sin comprometer la calidad y durabilidad.</p>
                   </div>
               </li>
               <li>
-                  <a>Accordion Title Three</a>
+                  <a>Proyectos y Clientes</a>
                   <div class="content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisic elit. Sed voluptate nihil eumester consectetur similiqu consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipisic elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti elite.</p>
+                      <p>A lo largo de los años, hemos trabajado con una variedad de proyectos, desde pequeñas renovaciones residenciales hasta grandes desarrollos comerciales.<br><br>Nos apasiona colaborar con nuestros clientes para ofrecer soluciones personalizadas que superen sus expectativas.</p>
                   </div>
               </li>
               <li>
-                  <a>Fourth Accordion Title</a>
+                  <a>Soporte y Asesoramiento Técnico</a>
                   <div class="content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisic elit. Sed voluptate nihil eumester consectetur similiqu consectetur.<br><br>Lorem ipsum dolor sit amet, consectetur adipisic elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti elite.</p>
+                      <p>Nuestro equipo de expertos está aquí para asesorarte en cada paso del camino. Ya sea que necesites ayuda para elegir el color perfecto o consejos sobre la aplicación de nuestros productos, estamos listos para proporcionarte el soporte que necesitas.</p>
                   </div>
               </li>
             </ul>

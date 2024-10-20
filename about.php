@@ -44,7 +44,7 @@ https://templatemo.com/tm-546-sixteen-clothing
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.php"><h2>OMEGACOL <em>DIS</em></h2></a>
+          <a class="navbar-brand" href="index.php"><h2>pinturas <em>omegacol</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -269,8 +269,8 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <i class="fa fa-gear"></i>
               </div>
               <div class="down-content">
-                <h4>Product Management</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
+                <h4>Calidad Garantizada</h4>
+                <p>Nos enorgullece ofrecer pinturas que cumplen con los estándares de calidad más altos. Cada uno de nuestros productos es rigurosamente probado para asegurar su durabilidad, resistencia y color vibrante.</p>
                 <a href="#" class="filled-button">Read More</a>
               </div>
             </div>
@@ -281,8 +281,8 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <i class="fa fa-gear"></i>
               </div>
               <div class="down-content">
-                <h4>Customer Relations</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
+                <h4>Asesoría Personalizada</h4>
+                <p>Ofrecemos un servicio de asesoría personalizada para ayudarte a elegir la mejor pintura para cada proyecto, brindándote soluciones a medida que se ajustan a tus necesidades específicas y estilo.</p>
                 <a href="#" class="filled-button">Details</a>
               </div>
             </div>
@@ -293,8 +293,8 @@ https://templatemo.com/tm-546-sixteen-clothing
                 <i class="fa fa-gear"></i>
               </div>
               <div class="down-content">
-                <h4>Global Collection</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
+                <h4>Atención al Cliente</h4>
+                <p>Nuestro equipo de atención al cliente está siempre disponible para ayudarte a elegir la pintura adecuada para tu proyecto, asegurándonos de que obtengas los resultados que deseas con nuestros productos.</p>
                 <a href="#" class="filled-button">Read More</a>
               </div>
             </div>
