@@ -44,7 +44,7 @@ https://templatemo.com/tm-546-sixteen-clothing
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.php"><h2>OMEGACOL <em>DIS</em></h2></a>
+          <a class="navbar-brand" href="index.php"><h2>pinturas <em>Omegacol</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -76,20 +76,20 @@ https://templatemo.com/tm-546-sixteen-clothing
       <div class="owl-banner owl-carousel">
         <div class="banner-item-01">
           <div class="text-content">
-            <h4>Best Offer</h4>
-            <h2>New Arrivals On Sale</h2>
+            <h4>mejores ofertas</h4>
+            <h2>novedades en oferta</h2>
           </div>
         </div>
         <div class="banner-item-02">
           <div class="text-content">
-            <h4>Flash Deals</h4>
-            <h2>Get your best products</h2>
+            <h4>ofertas relámpago</h4>
+            <h2>consiga las mejores pinturas</h2>
           </div>
         </div>
         <div class="banner-item-03">
           <div class="text-content">
-            <h4>Last Minute</h4>
-            <h2>Grab last minute deals</h2>
+            <h4>ultimos lanzamientos</h4>
+            <h2>ofertas de última hora</h2>
           </div>
         </div>
       </div>
@@ -109,9 +109,9 @@ https://templatemo.com/tm-546-sixteen-clothing
             <div class="product-item">
               <a href="#"><img src="assets/images/product_01.jpg" alt=""></a>
               <div class="down-content">
-                <a href="#"><h4>Tittle goes here</h4></a>
+                <a href="#"><h4>Pintura Acrílica Mate</h4></a>
                 <h6>$25.75</h6>
-                <p>Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.</p>
+                <p>Pintura de acabado mate para interiores que ofrece una excelente cobertura y un acabado suave y uniforme, ideal para paredes y techos.</p>
                 <ul class="stars">
                   <li><i class="fa fa-star"></i></li>
                   <li><i class="fa fa-star"></i></li>
@@ -127,9 +127,9 @@ https://templatemo.com/tm-546-sixteen-clothing
             <div class="product-item">
               <a href="#"><img src="assets/images/product_02.jpg" alt=""></a>
               <div class="down-content">
-                <a href="#"><h4>Tittle goes here</h4></a>
+                <a href="#"><h4>Pintura Exterior Antihumedad</h4></a>
                 <h6>$30.25</h6>
-                <p>Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.</p>
+                <p>Pintura especialmente formulada para proteger superficies exteriores contra la humedad, los rayos UV y las inclemencias del tiempo.</p>
                 <ul class="stars">
                   <li><i class="fa fa-star"></i></li>
                   <li><i class="fa fa-star"></i></li>
@@ -145,9 +145,9 @@ https://templatemo.com/tm-546-sixteen-clothing
             <div class="product-item">
               <a href="#"><img src="assets/images/product_03.jpg" alt=""></a>
               <div class="down-content">
-                <a href="#"><h4>Tittle goes here</h4></a>
+                <a href="#"><h4>Pintura Impermeabilizante para Techos</h4></a>
                 <h6>$20.45</h6>
-                <p>Sixteen Clothing is free CSS template provided by TemplateMo.</p>
+                <p>Recubrimiento impermeabilizante diseñado para proteger techos y terrazas de filtraciones de agua y humedad.</p>
                 <ul class="stars">
                   <li><i class="fa fa-star"></i></li>
                   <li><i class="fa fa-star"></i></li>
@@ -163,9 +163,9 @@ https://templatemo.com/tm-546-sixteen-clothing
             <div class="product-item">
               <a href="#"><img src="assets/images/product_04.jpg" alt=""></a>
               <div class="down-content">
-                <a href="#"><h4>Tittle goes here</h4></a>
+                <a href="#"><h4>Pintura Satinada para Interiores</h4></a>
                 <h6>$15.25</h6>
-                <p>Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.</p>
+                <p>Pintura con acabado satinado que ofrece un suave brillo a las paredes, perfecta para salones, comedores y habitaciones.</p>
                 <ul class="stars">
                   <li><i class="fa fa-star"></i></li>
                   <li><i class="fa fa-star"></i></li>
@@ -181,9 +181,9 @@ https://templatemo.com/tm-546-sixteen-clothing
             <div class="product-item">
               <a href="#"><img src="assets/images/product_05.jpg" alt=""></a>
               <div class="down-content">
-                <a href="#"><h4>Tittle goes here</h4></a>
+                <a href="#"><h4>Pintura Multiusos para Superficies</h4></a>
                 <h6>$12.50</h6>
-                <p>Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.</p>
+                <p>Pintura versátil que se puede aplicar en diferentes superficies como madera, metal, plástico y cerámica, tanto en interiores como exteriores.</p>
                 <ul class="stars">
                   <li><i class="fa fa-star"></i></li>
                   <li><i class="fa fa-star"></i></li>
@@ -199,9 +199,9 @@ https://templatemo.com/tm-546-sixteen-clothing
             <div class="product-item">
               <a href="#"><img src="assets/images/product_06.jpg" alt=""></a>
               <div class="down-content">
-                <a href="#"><h4>Tittle goes here</h4></a>
+                <a href="#"><h4>Recubrimiento Anticorrosivo para Metales</h4></a>
                 <h6>$22.50</h6>
-                <p>Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.</p>
+                <p>Recubrimiento diseñado para proteger superficies metálicas contra la oxidación y la corrosión, prolongando la vida útil de las estructuras.</p>
                 <ul class="stars">
                   <li><i class="fa fa-star"></i></li>
                   <li><i class="fa fa-star"></i></li>
